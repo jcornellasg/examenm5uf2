@@ -16,5 +16,17 @@ namespace ExamenGit
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FrmAnimal frmAnimal = new FrmAnimal();
+            frmAnimal.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FrmViatge frmViatge = new FrmViatge();
+            frmViatge.Show();
+        }
     }
 }
