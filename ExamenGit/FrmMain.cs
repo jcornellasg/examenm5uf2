@@ -28,5 +28,11 @@ namespace ExamenGit
             FrmViatge frmViatge = new FrmViatge();
             frmViatge.Show();
         }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            Form1 frm1 = new Form1();
+            frm1.Show();
+        }
     }
 }
