@@ -1,0 +1,8 @@
+Exercici 1
+mkdir examenm5uf2
+cd examenm5uf2/
+git add .
+git status -s
+git commit -m "primer commit"
+git status -s
+git push -u https://github.com/jcornellasg/examenm5uf2.git master
