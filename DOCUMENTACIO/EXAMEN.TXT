@@ -11,3 +11,8 @@ Exercici 2
 git add .
 git comm -m "segundo commit"
 git push -u https://github.com/jcornellasg/examenm5uf2.git master
+
+Exercici 3
+git add .
+git comm -m "tercer commit"
+git push -u https://github.com/jcornellasg/examenm5uf2.git master
