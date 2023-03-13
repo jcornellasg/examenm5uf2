@@ -26,3 +26,9 @@ Exercici 5
 git add .
 git commit -m "cinquè commit"
 git push -u https://github.com/jcornellasg/examenm5uf2.git master
+
+Exercici 6
+git checkout -b ampliacio
+git add .
+git commit -m "seze commit"
+git push -u https://github.com/jcornellasg/examenm5uf2.git ampliacio
