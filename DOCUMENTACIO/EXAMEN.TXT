@@ -6,3 +6,8 @@ git status -s
 git commit -m "primer commit"
 git status -s
 git push -u https://github.com/jcornellasg/examenm5uf2.git master
+
+Exercici 2
+git add .
+git comm -m "segundo commit"
+git push -u https://github.com/jcornellasg/examenm5uf2.git master
